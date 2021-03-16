@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "my-dream-app-979a8": {
+      "hosting": {
+        "warning-ja-success": [
+          "my-dream-app-979a8"
+        ]
+      }
+    }
+  }
+}
